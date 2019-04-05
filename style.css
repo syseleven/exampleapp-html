@@ -1,0 +1,54 @@
+/* Base */
+/* ----------------------------------------------------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { 
+  height: 100%; 
+  font-size: 100%;
+  font-size: 1.2em;
+}
+
+body {
+  font-family: Poiret One;
+  background-color: white;
+  color: #000;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+  font-family: 'Patua One', sans-serif;
+  font-size: 100%; 
+  font-weight: 400; 
+}
+
+a         { color: #333; text-decoration: none; }
+a:hover   { color: #333; text-decoration: hover; }
+a:visited { color: #333; text-decoration: none}
+
+.landingtitle {
+  width: 100%;
+  text-align: center;
+  font-size: 1.9em; 
+  margin-top: 10%;
+  color: rgb(51, 51, 51);
+}
+
+.footer {
+  position: absolute;
+  margin-bottom: 3%;
+  width: 90%;
+  margin: 4%;
+  color: rgb(102,102,102);
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.text {
+  width: 100%;
+  text-align: justify;
+  font-size: 0.8em;
+}
+
